@@ -2,7 +2,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css'
 function App() {
   let foodItem = ['Dal','Vegitable','Panir','Rice']
-  // let foodItem = []
+   //let foodItem = []
 
   if(foodItem.length===0){
     return <h1>i am still Hungry</h1>
