@@ -11,6 +11,6 @@ const FoodItem = ({item}) => {
   );
 };
 
-FoodItem.propTypes = {}
+FoodItem.propTypes = {};
 
-export default FoodItem
+export default FoodItem;
